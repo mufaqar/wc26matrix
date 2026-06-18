@@ -1,6 +1,6 @@
 # FIFA World Cup 2026 Explainer Ideas — Pipeline
 
-**Total: 30 ideas | 25 Complete ✅ | 5 Upcoming ❌**
+**Total: 38 ideas | 38 Complete ✅ | 0 Upcoming ❌**
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Phase | Count | Status |
 |-------|-------|--------|
-| Storyboard Complete | 30 | ✅ Idea 1–30 done |
+| Storyboard Complete | 38 | ✅ Idea 1–38 done |
 | Script Needed | 0 | ❌ None |
 | Image Prompts Needed | 0 | ❌ None |
 
@@ -414,6 +414,110 @@
 
 **Production ready:** ✅ Storyboard (18 scenes, 72 image prompts) at "products/Trump Tried to Move World Cup Matches FIFA Said No.html"
 
+### Idea 31 ✅
+**Viral title:** The Smallest Country in World Cup History Just Scored Against Germany
+
+**Why people would click:** Livano Comenencia scored Curacao's first-ever World Cup goal against Germany. Curacao is the smallest country by population and land size to ever compete in the World Cup. David vs Goliath.
+
+**Core confusion being solved:** How tiny nations qualify for the World Cup, what the group stage means for underdogs, and why one goal against Germany is bigger than winning an entire domestic league.
+
+**Thumbnail text:** "Population: 150,000. Goal: 1."
+
+**Estimated virality score:** 10/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/The Smallest Country in World Cup History Just Scored Against Germany.html"
+
+### Idea 32 ✅
+**Viral title:** Germany Just Broke Brazil's 80-Year Record — Nobody Noticed
+
+**Why people would click:** Germany surpassed Brazil's all-time World Cup goals record (239 vs 238) during their 7-1 win over Curacao. Most fans missed it — the hidden-record angle makes viewers feel like insiders.
+
+**Core confusion being solved:** How World Cup all-time goal records work, Germany's scoring history, and why the 7-1 scoreline is eerie — they beat Brazil 7-1 in 2014 too.
+
+**Thumbnail text:** "7-1. Again. Same Number."
+
+**Estimated virality score:** 9.5/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Germany Just Broke Brazils 80-Year Record Nobody Noticed.html"
+
+### Idea 33 ✅
+**Viral title:** Japan Drew With the Netherlands. Here's Why That's Insane.
+
+**Why people would click:** Netherlands vs Japan 2-2 thriller — 3 goals in 13 minutes, Daichi Kamada equalizer in the 88th minute. Japan vs European giant with last-minute drama.
+
+**Core confusion being solved:** What a "draw" means in group stage points, how Japan's defensive pressing system works, and why 88th-minute goals change a team's tournament path.
+
+**Thumbnail text:** "88th Minute. One Point Changed Everything."
+
+**Estimated virality score:** 9.5/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Japan Drew With the Netherlands Heres Why Thats Insane.html"
+
+### Idea 34 ✅
+**Viral title:** Two German Players Stopped to Pray With the Team They Just Beat 7-1
+
+**Why people would click:** Tah and Nmecha joined Curacao players in a prayer circle after the match. Faith, respect, sportsmanship. Non-football audiences share this.
+
+**Core confusion being solved:** The moment itself, what sportsmanship looks like at the World Cup, and how diversity across 48 nations makes this tournament unique.
+
+**Thumbnail text:** "7-1. Then This Happened."
+
+**Estimated virality score:** 9/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Two German Players Stopped to Pray With the Team They Just Beat 7-1.html"
+
+### Idea 35 ✅
+**Viral title:** 35 Goals in 4 Days — Is This the Most Exciting World Cup Ever?
+
+**Why people would click:** 35 goals in 8 matches. Extraordinary pace. Explaining why the expanded format, 5-sub rule, and fatigue science are producing more goals.
+
+**Core confusion being solved:** Why the 48-team format produces more goals, how 5 subs create late-game attacking surges, and whether this pace can continue.
+
+**Thumbnail text:** "35 Goals. 4 Days. Why?"
+
+**Estimated virality score:** 9/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/35 Goals in 4 Days Is This the Most Exciting World Cup Ever.html"
+
+### Idea 36 ✅
+**Viral title:** Trump Won a FIFA Peace Prize. Football Fans Are Furious.
+
+**Why people would click:** Infantino awarded Trump the first-ever FIFA Peace Prize. Outrage online is massive. The most shareable angle of the entire Trump-FIFA saga.
+
+**Core confusion being solved:** What a FIFA Peace Prize is, who decides it, and why the football world is questioning FIFA's political neutrality.
+
+**Thumbnail text:** "FIFA Gave Trump a Peace Prize."
+
+**Estimated virality score:** 10/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Trump Won a FIFA Peace Prize Football Fans Are Furious.html"
+
+### Idea 37 ✅
+**Viral title:** 120 Human Rights Groups Warned Fans: Don't Go to This World Cup
+
+**Why people would click:** 120+ organizations including the ACLU warned visitors that traveling to the US carries serious risks. Never happened for a US-hosted tournament.
+
+**Core confusion being solved:** Compare to Qatar 2022 — the world criticized Qatar, now similar warnings for the USA. Stick figures showing the parallel.
+
+**Thumbnail text:** "They Warned You. Before Kickoff."
+
+**Estimated virality score:** 9.5/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/120 Human Rights Groups Warned Fans Dont Go to This World Cup.html"
+
+### Idea 38 ✅
+**Viral title:** FIFA's Boss Visits the White House More Than Most World Leaders
+
+**Why people would click:** Infantino's multiple White House visits and summit appearances with Trump raise questions about FIFA's political neutrality.
+
+**Core confusion being solved:** FIFA's "no government interference" rule vs the reality of Infantino sitting next to Trump — the contradiction is the content.
+
+**Thumbnail text:** "FIFA Said No Politics. Then This."
+
+**Estimated virality score:** 9/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/FIFAs Boss Visits the White House More Than Most World Leaders.html"
+
 ---
 
 ## OVERALL PIPELINE
@@ -452,6 +556,14 @@ Idea 27 [■■■■■■■■■■] 100% — Storyboard done
 Idea 28 [■■■■■■■■■■] 100% — Storyboard done
 Idea 29 [■■■■■■■■■■] 100% — Storyboard done
 Idea 30 [■■■■■■■■■■] 100% — Storyboard done
+Idea 31 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 32 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 33 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 34 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 35 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 36 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 37 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 38 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
 ```
 
-**Total progress:** 30/30 ideas complete (100%) — All storyboards generated!
+**Total progress:** 38/38 ideas complete (100%) — All storyboards generated!

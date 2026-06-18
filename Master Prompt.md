@@ -98,6 +98,27 @@ Use these as topic seeds. Each video should pick ONE clear confusion and resolve
 - For each scene provide: Scene Number, Voiceover text, 2 Nano Banana Image Prompts, 2 AI Video Prompts
 - Each prompt must: visually represent the scene's voiceover, include stickman style, include background details, include on-screen text, mention composition, mention camera angle, mention icons/arrows/timers if needed
 
+### Social Share Card (MANDATORY)
+
+Every storyboard MUST include a **Social Share** section after the Thumbnail section with:
+
+1. **AI Image Prompt** — Nano Banana prompt for a 1200x630px share card (stickman style, dark stadium, title text overlay)
+2. **Share Title** — Short, clickable, under 60 characters
+3. **Share Description** — 2-3 sentences, under 200 characters total
+4. **Share Tags** — 5-8 hashtags with # symbol, space-separated
+
+Format:
+```
+<div class="label gold">Share Thumbnail AI Prompt</div>
+<div class="prompt-box">[1200x630 share card prompt with stickman, dark bg, title text]</div>
+<div class="label blue">Share Copy</div>
+<div style="...">
+    <p><strong>Title:</strong> [short title]</p>
+    <p><strong>Description:</strong> [2-3 sentence desc]</p>
+    <p><strong>Tags:</strong> #Tag1 #Tag2 #Tag3 #Tag4 #Tag5</p>
+</div>
+```
+
 ### Thumbnail Format (MANDATORY)
 
 Every video needs a YouTube thumbnail following this exact specification:

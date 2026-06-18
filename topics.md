@@ -22,6 +22,7 @@ What you explain: How World Cup all-time goal records work, Germany's scoring hi
 Thumbnail text: "7-1. Again. Same Number."
 
 Virality score: 🔥 9.5/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Germany Just Broke Brazils 80-Year Record Nobody Noticed.html"
 
 Idea 33 🔥🔥🔥
 Title: Japan Drew With the Netherlands. Here's Why That's Insane.
@@ -30,6 +31,7 @@ What you explain: What a "draw" means in group stage points, how Japan's defensi
 Thumbnail text: "88th Minute. One Point Changed Everything."
 
 Virality score: 🔥 9.5/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Japan Drew With the Netherlands Heres Why Thats Insane.html"
 
 Idea 34 🔥🔥🔥
 Title: Two German Players Stopped to Pray With the Team They Just Beat 7-1
@@ -38,6 +40,7 @@ What you explain: The moment itself, what sportsmanship looks like at the World 
 Thumbnail text: "7-1. Then This Happened."
 
 Virality score: 🔥 9/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Two German Players Stopped to Pray With the Team They Just Beat 7-1.html"
 
 Idea 35 🔥🔥🔥
 Title: 35 Goals in 4 Days — Is This the Most Exciting World Cup Ever?
@@ -46,3 +49,36 @@ What you explain: Why the new 48-team format is producing more goals, how 5 subs
 Thumbnail text: "35 Goals. 4 Days. Why?"
 
 Virality score: 🔥 9/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/35 Goals in 4 Days Is This the Most Exciting World Cup Ever.html"
+
+
+Idea 36 🔥🔥🔥
+Title: Trump Won a FIFA Peace Prize. Football Fans Are Furious.
+Why it'll explode: FIFA President Gianni Infantino awarded Trump the first-ever FIFA Peace Prize at the World Cup draw in Washington. A "Peace Prize" given by a football organisation to a sitting US president. The outrage online is massive. The most shareable angle of the entire Trump × FIFA saga.
+What you explain: What a FIFA Peace Prize even is, who decides it, and why the football world is questioning FIFA's political neutrality — stick figures showing the contradiction.
+Thumbnail text: "FIFA Gave Trump a Peace Prize."
+Virality score: 🔥 10/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Trump Won a FIFA Peace Prize Football Fans Are Furious.html"
+
+
+Idea 37 🔥🔥🔥
+Title: 120 Human Rights Groups Warned Fans: Don't Go to This World Cup
+Why it'll explode: A coalition of more than 120 civil rights and human rights organizations, including the ACLU, warned visitors that traveling to the United States may carry serious risks — including arbitrary detention, racial profiling, invasive phone searches, and deportation. This has never happened for a US-hosted tournament. Ever.
+What you explain: Compare this to Qatar 2022 — the world criticized Qatar, but now similar warnings are being issued for the USA. Stick figures showing the parallel is explosive content.
+Thumbnail text: "They Warned You. Before Kickoff."
+Virality score: 🔥 9.5/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/120 Human Rights Groups Warned Fans Dont Go to This World Cup.html"
+
+
+Idea 38 🔥🔥🔥
+Title: FIFA's Boss Visits the White House More Than Most World Leaders
+Why it'll explode: FIFA President Gianni Infantino made several visits to the White House and even joined Trump at international summits — raising serious questions about FIFA's political neutrality. The world's most powerful sports organisation is appearing closer to one government than any in its history.
+What you explain: Stick figures showing FIFA's rule of "no government interference" vs the reality of Infantino sitting next to Trump at summits. The contradiction is the content.
+Thumbnail text: "FIFA Said No Politics. Then This."
+Virality score: 🔥 9/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/FIFAs Boss Visits the White House More Than Most World Leaders.html"
+
+
+Idea 39 : "This Lower-League Player Shocked the World Cup Scouts"
+Why it'll explode: A player from a tiny club or lower division scored/assisted and drew immediate transfer interest from top teams — the rags-to-riches scouting story always goes viral and drives discovery/list-watch retention. Great for football and career-advice crossovers.
+What you explain: How scouts spot talent at World Cups, what a breakout performance can do to market value and contracts, and how transfer windows and agents work (simple timeline). Visual plan: stick-figure scout with binoculars, transfer offer envelopes, a rising price tag, and a montage of social feeds blowing up. Thumbnail text: "From Benchwarmer to Big Money."
