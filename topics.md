@@ -82,3 +82,62 @@ Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts)
 Idea 39 : "This Lower-League Player Shocked the World Cup Scouts"
 Why it'll explode: A player from a tiny club or lower division scored/assisted and drew immediate transfer interest from top teams — the rags-to-riches scouting story always goes viral and drives discovery/list-watch retention. Great for football and career-advice crossovers.
 What you explain: How scouts spot talent at World Cups, what a breakout performance can do to market value and contracts, and how transfer windows and agents work (simple timeline). Visual plan: stick-figure scout with binoculars, transfer offer envelopes, a rising price tag, and a montage of social feeds blowing up. Thumbnail text: "From Benchwarmer to Big Money."
+
+
+Idea 40 🔥🔥🔥
+
+Title: Messi Scored a Hat-Trick on the Exact Day He Debuted 20 Years Ago
+
+Why it'll explode: Messi scored three goals exactly 20 years to the day he made his World Cup debut for Argentina, making this his record-extending sixth World Cup appearance and becoming the oldest player ever to score a brace in the tournament. A 20-year-to-the-day callback is the kind of stat that turns casual viewers into instant Messi superfans — it's emotional, mathematical, and shareable in one breath.
+
+What you explain: How World Cup eligibility/age works, what it means for a player to compete across six tournaments (20 years apart), and why "oldest to score a brace" records matter historically — stick figure timeline showing 2006 Messi vs 2026 Messi side by side.
+
+Thumbnail text: "Same Date. 20 Years Apart."
+
+Virality score: 🔥 10/10
+
+Idea 41 🔥🔥🔥
+
+Title: England vs Croatia Was a Grudge Match. Here's the 2018 Wound Behind It.
+
+Why it'll explode: England beat Croatia 4-2 in a wild back-and-forth thriller, but the subtext is everything — Croatia eliminated England in the 2018 semifinal, and that loss has hung over English football for years. Revenge narratives plus a Harry Kane brace plus a Bellingham response goal is a perfect viral package.
+
+What you explain: What "unfinished business" means in tournament football, how a single past result (2018) can shape team psychology eight years later, and why this win moved England to the top of Group L — stick figures showing the 2018 vs 2026 rematch arc.
+
+Thumbnail text: "2018 Wasn't Forgotten."
+
+Virality score: 🔥 9.5/10
+
+Idea 42 🔥🔥🔥
+
+Title: Ronaldo Is 41 and Portugal Just Drew With a Team Nobody Rated
+
+Why it'll explode: Portugal's tournament got off to a poor start after a stunning 1-1 draw with DR Congo, with Ronaldo, 41, swarmed by Congo defenders and ineffective. The "is this the end" storyline around the most famous footballer alive is irresistible — age, legacy, and pressure all colliding in one match.
+
+What you explain: How age affects elite athletic performance at the highest level, what it means for a team to be "Ronaldo-dependent," and how a shock draw changes a group's entire math — stick figures comparing 25-year-old Ronaldo vs 41-year-old Ronaldo.
+
+Thumbnail text: "41 Years Old. One Bad Night."
+
+Virality score: 🔥 9/10 Yahoo Sports
+Idea 43 🔥🔥🔥
+
+Title: 281,223 People Watched Football in One Day. That's a World Record.
+
+Why it'll explode: FIFA confirmed June 16 as the highest-attended single day in World Cup history, with hundreds of thousands packing stadiums across three countries simultaneously. Big-number records are inherently clickable, and "biggest ever" framing pulls in non-football audiences who just like impressive statistics.
+
+What you explain: Why the 48-team expanded format physically allows for more simultaneous attendance than any previous World Cup, how three-host-nation logistics work, and what this record says about the tournament's popularity — simple stick figure math comparing stadium capacities.
+
+Thumbnail text: "281,223. One Day. World Record."
+
+Virality score: 🔥 8.5/10
+Idea 44 🔥🔥🔥
+
+Title: A World Cup Player Just Got Arrested for Match-Fixing. Mid-Tournament.
+
+Why it'll explode: Ivory Coast forward Elye Wahi was arrested for alleged spot-fixing during the World Cup itself — a corruption scandal breaking in real time, not years later. This is the rare story that crosses into true-crime territory and pulls in audiences who don't even follow football.
+
+What you explain: What "spot-fixing" actually means versus fixing a whole match, how betting markets create incentives for corruption, and what happens to a team and tournament when this surfaces mid-event — stick figures showing the betting-line manipulation concept simply.
+
+Thumbnail text: "Arrested. Mid-Tournament."
+
+Virality score: 🔥 9/10
