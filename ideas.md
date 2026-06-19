@@ -1,6 +1,6 @@
 # FIFA World Cup 2026 Explainer Ideas — Pipeline
 
-**Total: 38 ideas | 38 Complete ✅ | 0 Upcoming ❌**
+**Total: 45 ideas | 45 Complete ✅ | 0 Upcoming ❌**
 
 ---
 
@@ -8,7 +8,7 @@
 
 | Phase | Count | Status |
 |-------|-------|--------|
-| Storyboard Complete | 38 | ✅ Idea 1–38 done |
+| Storyboard Complete | 45 | ✅ Idea 1–45 done |
 | Script Needed | 0 | ❌ None |
 | Image Prompts Needed | 0 | ❌ None |
 
@@ -518,6 +518,97 @@
 
 **Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/FIFAs Boss Visits the White House More Than Most World Leaders.html"
 
+### Idea 39 ✅
+**Viral title:** This Lower-League Player Shocked the World Cup Scouts
+
+**Why people would click:** A player from the Swiss second division — Livano Comenencia — scored against Germany at the World Cup. Scouts had never heard of him. His name wasn't on any list. One moment changed everything. The ultimate hidden gem story.
+
+**Core confusion being solved:** How unheralded players can emerge at the World Cup, what it means when scouts miss a talent, and why the expanded 48-team format creates more opportunities for unknown players to shine on the biggest stage.
+
+**Thumbnail text:** "Who Is He?"
+
+**Estimated virality score:** 9/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/This Lower-League Player Shocked the World Cup Scouts.html"
+
+### Idea 40 ✅
+**Viral title:** Messi Scored a Hat-Trick on the Exact Day He Debuted 20 Years Ago
+
+**Why people would click:** Messi scored a hat-trick at WC26 on the exact anniversary of his professional debut — 20 years to the day. The cosmic timing is almost unbelievable. Fans love fate and numerology narratives around their heroes.
+
+**Core confusion being solved:** The coincidental date alignment, Messi's career timeline, how this hat-trick fits into his World Cup legacy, and why the football universe seems to write his story.
+
+**Thumbnail text:** "20 Years. Same Day."
+
+**Estimated virality score:** 10/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Messi Scored a Hat-Trick on the Exact Day He Debuted 20 Years Ago.html"
+
+### Idea 41 ✅
+**Viral title:** England vs Croatia Was a Grudge Match. Here's the 2018 Wound Behind It.
+
+**Why people would click:** England fans still haven't recovered from the 2018 semi-final loss to Croatia. When they met again at WC26, the emotional history made it more than a group match. Revenge narratives drive massive engagement.
+
+**Core confusion being solved:** What happened in 2018, why that match still haunts England, how Croatia's golden generation rebuilt, and why this rematch carried more weight than any other group game.
+
+**Thumbnail text:** "The Grudge Returns."
+
+**Estimated virality score:** 9/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/England vs Croatia Was a Grudge Match Heres the 2018 Wound Behind It.html"
+
+### Idea 42 ✅
+**Viral title:** Ronaldo Is 41 and Portugal Just Drew With a Team Nobody Rated
+
+**Why people would click:** Ronaldo at 41 — the oldest outfield player in World Cup history — still carrying Portugal on his back. Portugal drew with a team expected to lose by three goals. The narrative is part tragedy, part defiance — and pure box office.
+
+**Core confusion being solved:** Ronaldo's physical longevity secrets, Portugal's tactical dependence on him, why minnows are no longer pushovers in the 48-team format, and what this draw means for Portugal's knockout path.
+
+**Thumbnail text:** "41. Still Fighting."
+
+**Estimated virality score:** 9.5/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Ronaldo is 41 He Has Never Won a World Cup This is His Last Match.html"
+
+### Idea 43 ✅
+**Viral title:** 281,223 People Watched Football in One Day. That's a World Record.
+
+**Why people would click:** A single matchday at WC26 broke the world record for attendance across all matches combined. The number is almost incomprehensible. Stacking stadium capacities vs record shows the insane scale of the 48-team tournament.
+
+**Core confusion being solved:** How 48 teams playing across 3 time zones on the same day creates attendance records, which matches drew the biggest crowds, and why North America's stadium infrastructure makes these numbers possible.
+
+**Thumbnail text:** "281,223 in One Day."
+
+**Estimated virality score:** 9/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/281223 People Watched Football in One Day Thats a World Record.html"
+
+### Idea 44 ✅
+**Viral title:** A World Cup Player Just Got Arrested for Match-Fixing. Mid-Tournament.
+
+**Why people would click:** A player was arrested during the World Cup for match-fixing. This has never happened before. The chaos, the legal scramble, FIFA's emergency response — it's the most dramatic off-pitch story of the tournament.
+
+**Core confusion being solved:** How match-fixing works at a World Cup, what FIFA's anti-corruption protocols are, what happens to the team and the match results, and how this could affect the integrity of the entire tournament.
+
+**Thumbnail text:** "Arrested. Mid-Tournament."
+
+**Estimated virality score:** 9/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/A World Cup Player Just Got Arrested for Match-Fixing Mid-Tournament.html"
+
+### Idea 45 ✅
+**Viral title:** A Brazilian Referee's Mic Moment Just Became the World Cup's First Viral Meme
+
+**Why people would click:** Referee Wilton Sampaio walked to the VAR monitor, reviewed a red card incident, and then announced his decision live over the stadium microphone in English — and nobody could understand a word. Clips spread across every platform. This is rare: a referee, not a player, becoming the story.
+
+**Core confusion being solved:** How the new "explain it on the mic" VAR protocol actually works, why FIFA introduced it for transparency, and why language and accent created instant chaos for a global audience — stick figures showing the ref's monitor review next to a crowd of confused fans.
+
+**Thumbnail text:** "Nobody Understood the Ref."
+
+**Estimated virality score:** 9/10
+
+**Production ready:** ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/A Brazilian Referees Mic Moment Just Became the World Cups First Viral Meme.html"
+
 ---
 
 ## OVERALL PIPELINE
@@ -564,6 +655,13 @@ Idea 35 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
 Idea 36 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
 Idea 37 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
 Idea 38 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 39 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 40 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 41 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 42 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 43 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 44 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
+Idea 45 [■■■■■■■■■■] 100% — Storyboard done (10 scenes)
 ```
 
-**Total progress:** 38/38 ideas complete (100%) — All storyboards generated!
+**Total progress:** 45/45 ideas complete (100%) — All storyboards generated!
