@@ -130,6 +130,7 @@ What you explain: Why the 48-team expanded format physically allows for more sim
 Thumbnail text: "281,223. One Day. World Record."
 
 Virality score: 🔥 8.5/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Spain Scored 3 Goals in 24 Minutes Then Sat Their Stars Down.html"
 Idea 44 🔥🔥🔥
 
 Title: A World Cup Player Just Got Arrested for Match-Fixing. Mid-Tournament.
@@ -153,3 +154,42 @@ What you explain: How the new "explain it on the mic" VAR protocol actually work
 Thumbnail text: "Nobody Understood the Ref."
 
 Virality score: 🔥 9/10
+
+
+Idea 46 🔥🔥🔥
+
+Title: Spain Scored 3 Goals in 24 Minutes. Then Sat Their Stars Down.
+
+Why it'll explode: Spain demolished Saudi Arabia 4-0, with 18-year-old Lamine Yamal scoring his first-ever World Cup goal — then Spain's coach pulled both Yamal and Oyarzabal off at halftime with the game already won. Saudi Arabia managed almost zero real scoring chances all match (0.04 expected goals vs Spain's 2.85). A statement win, a teen superstar moment, and a tactical decision worth breaking down.
+
+What you explain: What "expected goals" (xG) actually measures and why 0.04 vs 2.85 is one of the most lopsided stat-lines possible, why a coach benches in-form stars at halftime even while winning, and what Saudi Arabia must now do against Uruguay to survive the group — stick figures showing the first-half goal blitz.
+
+Thumbnail text: "3 Goals. 24 Minutes. Subbed Off."
+
+Virality score: 🔥 8.5/10
+
+Idea 47 🔥🔥🔥
+
+Title: Iran's Players Wore the Same Number on Their Shirts. Here's Why.
+
+Why it'll explode: When Iran's national team walked out for their World Cup match, players wore pins displaying the number 168 — a tribute to the victims of the 2026 Minab school attack. This happened the same tournament where Iran's training camp was moved out of the US over security concerns and their ticket allocation was revoked days before kickoff. A human, emotional story hiding inside a sports headline.
+
+What you explain: What happened in Minab, why Iran's team made this gesture on the world's biggest stage, and how political tension has followed Iran throughout this entire tournament — stick figures showing the journey from training camp relocation to matchday tribute.
+
+Thumbnail text: "The Number on Their Shirts."
+
+Virality score: 🔥 9/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Irans Players Wore the Same Number on Their Shirts Heres Why.html"
+
+Idea 48🔥🔥🔥
+
+Title: A Tiny Island of 150,000 People Just Got Their First-Ever World Cup Point
+
+Why it'll explode: Curaçao — population 150,000 — earned its first point in World Cup history, helped along by a result that went their way elsewhere in the group. This is the purest underdog story of the tournament, and it's the kind of feel-good clip that spreads way beyond football audiences.
+
+What you explain: How a nation this small even qualifies for a World Cup, what "goal difference" and group math actually mean, and why one point can feel like a trophy for a country this size — stick figures showing the size comparison and the group table shift.
+
+Thumbnail text: "150,000 People. 1 Historic Point."
+
+Virality score: 🔥 9/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/A Tiny Island of 150000 People Just Got Their First-Ever World Cup Point.html"
