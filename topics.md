@@ -193,3 +193,94 @@ Thumbnail text: "150,000 People. 1 Historic Point."
 
 Virality score: 🔥 9/10
 Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/A Tiny Island of 150000 People Just Got Their First-Ever World Cup Point.html"
+
+
+
+Idea 49🔥🔥🔥
+
+Title: A Supercomputer Just Gave the USA a Real Shot at the World Cup Final
+
+Why it'll explode: A major sports analytics model (Opta) now gives the USMNT a 73% chance of reaching the knockout rounds and roughly a 10% chance of reaching the final on home soil — odds nobody expected for a team with zero players ranked in the world's top 100. "Could the USA actually win this?" is exploding across American sports talk shows and Reddit threads right now.
+
+What you explain: How these supercomputer predictions are actually calculated, why playing at home in front of American crowds statistically matters this much, and what has to happen for the USA to make a real run — stick figures showing the bracket path option by option.
+
+Thumbnail text: "10% Chance. On Home Soil."
+
+Virality score: 🔥 9/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/A Supercomputer Just Gave the USA a Real Shot at the World Cup Final.html"
+
+Idea 50🔥🔥🔥
+
+Title: Back-to-Back Own Goals Have Given the USA Free Goals Twice in a Row
+
+Why it'll explode: For the first time in World Cup history, a single team — the USA — has benefited from an opposing own goal in back-to-back matches. It's a bizarre, highly shareable stat that fuels "are they lucky or are they good?" arguments all over American sports talk and social media.
+
+What you explain: How own goals actually happen mechanically (deflections, pressure, bad bounces), why this stat is historically rare, and whether the USA's attack is creating these moments or just benefiting from chaos — stick figures recreating both own-goal sequences side by side.
+
+Thumbnail text: "2 Games. 2 Free Goals. A First."
+
+Virality score: 🔥 8.5/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Back-to-Back Own Goals Have Given the USA Free Goals Twice in a Row.html"
+
+
+Idea 51🔥🔥🔥
+
+Title: The USA Just Won Its Group for the First Time Since 2010
+
+Why it'll explode: The USMNT beat Australia 2-0, finishing 2-0-0 in Group D and winning its group at a World Cup for the first time in 16 years. This is a genuinely historic American sports moment, and home-soil pride is driving massive engagement across US sports media right now.
+
+What you explain: Why winning the group (not just qualifying) matters for the bracket path ahead, what tiebreaker rules decided it, and why this hasn't happened for the USA since 2010 — stick figures showing the group table and the easier knockout path it unlocks.
+
+Thumbnail text: "First Time Since 2010."
+
+Virality score: 🔥 9/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/The USA Just Won Its Group for the First Time Since 2010.html"
+
+Idea 52🔥🔥🔥
+Title: Messi Just Became the All-Time Leading Scorer in World Cup History
+
+Why it'll explode: Lionel Messi scored twice against Austria, pushing his combined men's/women's World Cup goal total to 18 — the most ever, surpassing every player who's played the tournament. This is a "tell your grandkids you watched this" moment, and it's dominating global search right now.
+
+What you explain: How the all-time scoring record actually worked before Messi, why this record matters more than a single match, and what's left for Messi to achieve before he likely retires from international football — stick figures timeline of his record chase.
+
+Thumbnail text: "18 Goals. Most Ever."
+
+Virality score: 🔥 9.5/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Messi Just Became the All-Time Leading Scorer in World Cup History.html"
+
+
+Idea 53🔥🔥🔥
+Title: A Fox Announcer Got Hit By a Projectile Live on Air
+
+Why it'll explode: Amid a tournament already dealing with a "major heat illness" warning, a Fox broadcaster was struck by a projectile during a live broadcast. Bizarre, alarming, real-time chaos — exactly the kind of clip that spreads on social media before people even know the context.
+
+What you explain: What actually happened in the moment, what stadium security protocol looks like at World Cup venues, and how this fits into a tournament already facing scrutiny over fan safety and extreme heat — stick figures recreating the broadcast booth incident.
+
+Thumbnail text: "Hit On Live TV."
+
+Virality score: 🔥 8.5/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/A Fox Announcer Got Hit By a Projectile Live on Air.html"
+
+Idea 54🔥🔥🔥
+Title: Iran Is Living in Mexico During the World Cup — Not the USA
+
+Why it'll explode: Iran's team has been based in Tijuana, Mexico, commuting across the border for every match in Los Angeles, due to travel restrictions tied to the Trump administration. They left a handwritten note thanking LA before departing. This is one of the most human, headline-worthy stories of the entire tournament.
+
+What you explain: Why a competing nation would be forced to live in a different country than the one hosting its matches, how this affects travel, rest, and performance, and what this reveals about the politics surrounding the USA's hosting role — stick figures showing the border-crossing routine before each match.
+
+Thumbnail text: "They Live in Mexico. They Play in LA."
+
+Virality score: 🔥 9.5/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Iran Is Living in Mexico During the World Cup Not the USA.html"
+
+Idea 55🔥🔥🔥
+Title: Turkey Is Already Out — And the USA Doesn't Even Need to Try Hard
+
+Why it'll explode: Türkiye has been eliminated after back-to-back losses, while the USA has already secured the group with one match still to play against them. The classic "do they rest their stars or keep the pressure on" debate is exploding in US soccer media right now, especially with Pulisic's injury status in question.
+
+What you explain: Why coaches rotate or rest players even in winnable group games, what risk that carries for momentum heading into the knockouts, and what's actually at stake in a "meaningless" final group match — stick figures showing rotation risk vs reward.
+
+Thumbnail text: "They Don't Even Need to Win."
+
+Virality score: 🔥 8/10
+Production ready: ✅ Storyboard (10 scenes, 40 image prompts, 40 video prompts) at "products/Turkey Is Already Out and the USA Doesnt Even Need to Try Hard.html"
