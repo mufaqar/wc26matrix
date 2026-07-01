@@ -444,3 +444,82 @@ What you explain: What happens to a team when its manager steps away mid-tournam
 Thumbnail text: "He Left Before the Match."
 
 Virality score: 🔥 8.5/10
+
+
+
+Idea 68🔥🔥🔥
+
+Title: A 92nd-Minute Goal Just Gave Canada Their Biggest Win in History
+
+Why it'll explode: Stephen Eustáquio scored a 92nd-minute goal off a headed clearance to give Canada a 1-0 win over South Africa in the World Cup Round of 32  — sending co-host Canada to the Round of 16 for the first time ever. A last-gasp historic goal on home soil is the purest underdog-drama content there is right now.
+
+What you explain: Why stoppage-time goals are statistically rarer in knockout football than group stage, what made this moment Canada's biggest in men's soccer history, and what's next on Canada's bracket path as a host nation — stick figures replaying the headed clearance into the box and the finish.
+
+Thumbnail text: "92nd Minute. History Made."
+
+Virality score: 🔥 9.5/10
+
+
+Idea 69🔥🔥🔥
+
+Title: The USA's Knockout Path Is Set — Here's Exactly Who Stands in the Way
+
+Why it'll explode: The USA finished atop Group D and will face Bosnia and Herzegovina in the Round of 32 on Wednesday in Santa Clara, California, with the winner advancing to face the winner of Belgium vs. Senegal in the Round of 16.  One striker has already called the group stage meaningless unless the run continues — pure pressure-cooker stakes for the host nation's biggest fanbase.
+
+What you explain: How the USA's specific bracket path was determined by finishing first in their group, who they could face in the next two rounds, and why "winning the group" mattered so much for the path ahead — stick figures mapping the USA's bracket route round by round.
+
+Thumbnail text: "USA's Path. Round by Round."
+
+Virality score: 🔥 9.5/10
+
+Idea 70🔥🔥🔥
+
+Title: Ronaldo and Modrić Are Replaying a Euro Final — 10 Years Later, at the World Cup
+
+Why it'll explode: The Round of 32 features a rematch of the 2016 Euro final between Croatia and Portugal, with Cristiano Ronaldo and Luka Modrić remarkably still leading both teams a decade later.  Two legends, one old final replaying on the biggest stage left in their careers — built-in nostalgia and drama for casual and hardcore fans alike.
+
+What you explain: What happened in that 2016 final, how both players are performing at this World Cup nearly a decade on, and why this matchup feels like a "passing of an era" moment regardless of result — stick figures showing a split-screen of 2016 vs. 2026 versions of both players.
+
+Thumbnail text: "2016 Final. Replayed in 2026."
+
+Virality score: 🔥 9/10
+
+
+
+Idea 71🔥🔥🔥
+
+Title: Germany Just Got Knocked Out by Paraguay. Nobody Saw It Coming.
+
+Why it'll explode: Paraguay stunned four-time World Cup champions Germany after 120 minutes and a wild penalty shootout in the Round of 32  — the same Germany that scored 7 goals against Curaçao just days ago. A giant eliminated by a South American underdog in penalties is the most shareable knockout result of the tournament so far. Every German fan, every football fan, every "how did that happen" viewer clicks this.
+
+What you explain: How penalty shootouts actually work (the psychology, the sequence, why favorites statistically lose more often than expected), why Germany's group-stage form meant nothing in a one-off knockout, and what this means for the rest of the bracket now that a top contender is gone — stick figures showing a confident German stick figure walking into a shootout and walking back out empty-handed.
+
+Thumbnail text: "Germany. Out. Penalties."
+
+Virality score: 🔥 10/10
+
+
+Idea 72🔥🔥🔥
+
+Title: Morocco Just Knocked Out the Netherlands on Penalties — Again
+
+Why it'll explode: Morocco defeated the Netherlands in penalty kicks on Monday night, advancing to the Round of 16 for the second time in as many World Cups  — and it's the third World Cup in which Morocco has reached the last 16. Meanwhile Liverpool star Cody Gakpo's partner announced earlier this week that the pair lost a baby son during her pregnancy  — making his tournament an emotionally devastating story beyond just the football result.
+
+What you explain: How Morocco has become the most consistent African overperformer in modern World Cup history, what makes their defensive system so hard to break down, and why two European giants (Netherlands and Germany) both went home on the same day — stick figures showing Morocco's defensive wall holding firm across two straight tournaments.
+
+Thumbnail text: "Morocco Did It Again."
+
+Virality score: 🔥 9.5/10
+
+
+Idea 73🔥🔥🔥
+
+Title: USA vs Bosnia Tonight. Everything the USMNT Has Done Means Nothing If They Lose.
+
+Why it'll explode: The USA plays Bosnia and Herzegovina in the Round of 32 tonight at Levi's Stadium, Santa Clara  — and striker Folarin Balogun already said the group stage "won't mean much" unless the US makes a real run.  Record eight goals scored, group winners, home crowd — all of it disappears with one loss tonight. Peak USA sports anxiety is the most engaging content for your American audience right now.
+
+What you explain: What Bosnia and Herzegovina actually is as a football nation (most casual US fans have never watched them play), what tactical system the USA needs to break them down, and what the winner faces next in the Round of 16 — stick figures mapping the exact path from tonight's match to a potential semifinal.
+
+Thumbnail text: "Win Tonight. Or It's Over."
+
+Virality score: 🔥 10/10
